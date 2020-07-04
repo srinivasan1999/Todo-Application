@@ -1,0 +1,22 @@
+#container{
+    position: relative;
+    left: 38%;
+    top:34%;
+}
+li{
+    
+    list-style: none;  /*This is for removing the bullet points*/
+    font-size: 26px;
+}
+input[type="text"]{
+    width: 200px;
+    height: 30px;
+    font-style: normal;
+    font-size: medium;
+    text-align: center; /* Type pannura text center la irunthu varathukandi*/
+
+}
+
+input[type="checkbox"]{   /* it is used too increase a size of the checkbox size*/
+    zoom: 1;
+}
